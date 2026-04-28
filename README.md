@@ -1,4 +1,4 @@
-https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.7.9/mhrv-rs-android-arm64-v8a-v1.7.9.apk# github-sandbox
+Github-sandbox
 
 # 📥 Download Files via Commit Message
  
